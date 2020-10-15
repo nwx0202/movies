@@ -1,0 +1,21 @@
+/* 样式重置 */
+html, body, div, p, ul, li, ol, span, object, iframe, h1, h2, h3, h4, h5, pre, dl, dd, dt,
+table, tbody, thead, th, td, tr, label, header, footer, form, nav, label, strong, menu
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
